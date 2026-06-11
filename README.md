@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/prof-little-bear-cc-equity-research-badge.png)](https://mseep.ai/app/prof-little-bear-cc-equity-research)
+
 # CC Equity Research Toolkits
 
 **English** | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
